@@ -1,5 +1,5 @@
 # Real Estate Sales Dashboard - Power BI
-
+# Mastering Real Estate Markets: An Interactive Sales Dashboard
 ## Overview
 
 This project presents an interactive **Real Estate Sales Dashboard** designed using **Power BI**. The dashboard incorporates various visualizations such as line charts, bar charts, and pie charts, enabling stakeholders to easily interpret complex real estate transaction data. The dashboard offers insights into sales performance across different towns and property types, helping identify top-performing locations and potential investment opportunities.
